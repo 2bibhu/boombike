@@ -1,5 +1,5 @@
 # Boom Bikes
-> Bike Sharing Case Study which will help the Boom Bikes to understand when is the profitable time or season for Bike sharing Business..
+> Bike Sharing Case Study which will help the Boom Bikes to understand what season and environement infuence the Bike sharing Business..
 
 
 ## Table of Contents
@@ -11,7 +11,7 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- This case study is to apply Machine Learning technique to solve the business problem of Boom Bikes a bike shakring compant. Solving this assignment will give an idea about how linear Regression is used in real business problems.
+- This case study is to apply Machine Learning technique to solve the business problem of Boom Bikes a bike sharing company. Solving this assignment will give an idea about how linear Regression is used in real business problems.
 
 - What is the business probem that your project is trying to solve?
 	Boombikes business wants to understand the factors on which the demand for these shared bikes depends. Specifically, they want to understand the factors affecting the demand for these shared bikes in the market
