@@ -36,9 +36,18 @@
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+### python libraries
+	- pandas, numpy
+
+### for plotting
+	- seaborn,matplotlib
+
+### for machine learning
+	- sklearn, statsmodels
+
+
+### for statistical and tests
+	- scipy
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
